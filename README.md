@@ -1,7 +1,5 @@
 ## Bonjour 👋
 
-<!--
-
 Here are some ideas to get you started:
 
 - 🧑🏻‍💻 Web marketeur
@@ -10,6 +8,4 @@ Here are some ideas to get you started:
 - 💬 Je performe sur le web depuis plus de 5 ans
 - 💼 Je suis à la recherche
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
