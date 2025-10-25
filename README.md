@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 ## 🎮 Hobbies
 
 Lecture | Gaming | Youtube | Séries/Films | Web | Tech
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedricfrancoise&layout=compact&custom_title=Langages%20de%20programmation)
