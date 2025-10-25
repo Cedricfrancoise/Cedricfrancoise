@@ -1,5 +1,5 @@
 ## Bonjour 👋
-
+Moi c'est Cédric Françoise 
 - 🧑🏻‍💻 Web marketeur
 - 🌱 J'ai la soif d'apprendre plus sur le Marketing, l'IA et le growth hacking
 - 👯 Bientôt CEO d'un e-commerce
