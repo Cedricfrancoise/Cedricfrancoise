@@ -8,3 +8,8 @@ Here are some ideas to get you started:
 - 💬 Je performe sur le web depuis plus de 5 ans
 - 💼 Je suis à la recherche
 - 📫 Contactez moi : [Linkedin](https://www.linkedin.com/in/fran%C3%A7oisec%C3%A9dric/)
+
+
+## 🎮 Hobbies
+
+Lecture | Gaming | Youtube | Séries/Films | Web | Tech
