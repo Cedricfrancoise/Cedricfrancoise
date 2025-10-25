@@ -7,5 +7,4 @@ Here are some ideas to get you started:
 - 👯 Bientôt CEO d'un e-commerce
 - 💬 Je performe sur le web depuis plus de 5 ans
 - 💼 Je suis à la recherche
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 📫 Contactez moi : [Linkedin](https://www.linkedin.com/in/fran%C3%A7oisec%C3%A9dric/)
